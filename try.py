@@ -1,4 +1,4 @@
-nama = "nyoba"
+nama = "abang"
 print(nama)
 
 a = "5"
